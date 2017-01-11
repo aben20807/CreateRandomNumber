@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>455</width>
+    <width>526</width>
     <height>381</height>
    </rect>
   </property>
@@ -23,7 +23,7 @@
    <widget class="QPushButton" name="btn_create">
     <property name="geometry">
      <rect>
-      <x>359</x>
+      <x>420</x>
       <y>50</y>
       <width>75</width>
       <height>31</height>
@@ -31,8 +31,8 @@
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -45,15 +45,15 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>49</y>
-      <width>90</width>
-      <height>23</height>
+      <y>48</y>
+      <width>121</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -66,15 +66,15 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>80</y>
-      <width>61</width>
+      <y>82</y>
+      <width>91</width>
       <height>23</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -86,7 +86,7 @@
    <widget class="QLineEdit" name="lEdit_num">
     <property name="geometry">
      <rect>
-      <x>120</x>
+      <x>150</x>
       <y>50</y>
       <width>91</width>
       <height>28</height>
@@ -94,8 +94,8 @@
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
      </font>
     </property>
     <property name="text">
@@ -117,7 +117,7 @@
     <property name="font">
      <font>
       <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <pointsize>10</pointsize>
      </font>
     </property>
     <property name="text">
@@ -133,16 +133,16 @@
    <widget class="QRadioButton" name="radioBtn_repeat">
     <property name="geometry">
      <rect>
-      <x>230</x>
-      <y>50</y>
-      <width>120</width>
-      <height>27</height>
+      <x>249</x>
+      <y>48</y>
+      <width>171</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -157,7 +157,7 @@
    <widget class="QPushButton" name="btn_reset">
     <property name="geometry">
      <rect>
-      <x>360</x>
+      <x>420</x>
       <y>320</y>
       <width>75</width>
       <height>31</height>
@@ -165,8 +165,8 @@
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -180,14 +180,14 @@
      <rect>
       <x>20</x>
       <y>13</y>
-      <width>41</width>
+      <width>71</width>
       <height>23</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -199,16 +199,16 @@
    <widget class="QLabel" name="l_to">
     <property name="geometry">
      <rect>
-      <x>243</x>
+      <x>290</x>
       <y>13</y>
-      <width>16</width>
+      <width>31</width>
       <height>23</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -220,7 +220,7 @@
    <widget class="QLineEdit" name="lEdit_to">
     <property name="geometry">
      <rect>
-      <x>265</x>
+      <x>324</x>
       <y>13</y>
       <width>170</width>
       <height>28</height>
@@ -228,8 +228,8 @@
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
      </font>
     </property>
     <property name="alignment">
@@ -239,7 +239,7 @@
    <widget class="QLineEdit" name="lEdit_from">
     <property name="geometry">
      <rect>
-      <x>67</x>
+      <x>100</x>
       <y>13</y>
       <width>170</width>
       <height>28</height>
@@ -247,8 +247,8 @@
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
      </font>
     </property>
     <property name="alignment">
@@ -259,15 +259,15 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>110</y>
-      <width>411</width>
-      <height>201</height>
+      <y>120</y>
+      <width>481</width>
+      <height>191</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <family>Noto Sans T Chinese Medium</family>
-      <pointsize>12</pointsize>
+      <family>Noto Sans CJK TC Medium</family>
+      <pointsize>10</pointsize>
      </font>
     </property>
    </widget>
